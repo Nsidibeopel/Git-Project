@@ -1,14 +1,14 @@
 # GIT-PROJECT
 
-Initializing a Git Repository
+1. Initializing a Git Repository
 
 To initialize a git repository, I used the commands below:
 
-mkdir JoanDevOps-Project
+Step 1. Create a directory using the command: mkdir JoanDevOps-Project'
 
-cd JoanDevOps-Project\
+Step 2. Change to the directory created using the command: cd JoanDevOps-Project\
 
-git init
+Step 3. While inside the folder, run the command 'git init' to initialize the repo
 
 See the screenshot below.
 
