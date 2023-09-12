@@ -15,9 +15,13 @@ Please take a look at the screenshot below.
 ![Capture](https://github.com/Nsidibeopel/Git-Project/assets/143354400/a09cb4ab-d014-411e-8d03-b9213c8cf518)
 
 Making a Commit
+
 To make a commit is to save changes, for example, adding, modifying or deleting a file. 
+
 When the command is run, it takes a snapshot of the current state of the repository and saves it to the .git folder inside the working directory.
+
 Here are the steps to make a commit on Git
+
 Step 1. Create a file named idex.txt
 
 Step 2. Add a text "My First Git Commit" to the file created using the following command
