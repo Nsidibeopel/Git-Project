@@ -116,4 +116,18 @@ Step 4. After committing the changes to push to the remote repo on GitHub, I use
 
   ![push command](https://github.com/Nsidibeopel/Git-Project/assets/143354400/20e2af54-df75-485e-b71c-3449db8ccb31)
 
+CLONING REMOTE GIT REPOSITORY
+
+The clone command is a tool for downloading a repository into a local machine. 
+
+This tool is important because it helps team members to be able to work on a remote repository on GitHub, 
+
+It is best practice to make a copy of the remote repository on their local machine and create a branch where modifications can be made.
+
+To get a local copy of the remote repository, run the clone command below
+
+git clone https://github.com/Nsidibeopel/RemoteGitHub-Practice.git See screenshot below
+
+![clone command](https://github.com/Nsidibeopel/Git-Project/assets/143354400/9338a354-3b72-4afb-b2c7-21415d2e19fb)
+
 
