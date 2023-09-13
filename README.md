@@ -66,15 +66,15 @@ I created a text file named trial.txt using the command touch trial.txt
 
 Next, I add a text to the file using the command echo "lessons on merging branches" > trial.txt 
 
-I tried to run the merge command at this point but got a message 'already up to date'. I realised I had not committed the changes yet(see screenshot)
+I tried to run the merge command but got a message 'already up to date'. I realised I had not committed the changes yet(see screenshot)
 
 Next, I run the command git add . and then run the command git commit -m "my first branch commit" This saves the changes made to the file inside the branch
 
-I then run the merge command after switching to the first branch using the command 'git merge my-second-branch'  See the screenshot below
+I then run the merge command after switching to the first branch using the command 'git merge my-second-branch'  See the screenshot below.
 
 ![Merging branches](https://github.com/Nsidibeopel/Git-Project/assets/143354400/d3d20152-94af-4546-8c5f-11440b60409d)
 
-To delete a branch, simply run the command git -d my-second-branch. See screenshot below
+To delete a branch, run the command git -d my-second-branch. See screenshot below
 
 ![delete branch](https://github.com/Nsidibeopel/Git-Project/assets/143354400/56eeea96-9d07-4d4d-ae1a-6cd152da49ec)
 
@@ -83,17 +83,17 @@ COLLABORATION AND REMOTE REPOSITORIES
 
 Git is a distributed version control system which enables the sharing of source code and tracking changes made to source code. This can be achieved by 
 
-creating a git repository, initializing it, committing any changes made, and even creating branches. Github, on the other hand, is a web-based platform.
+Creating a git repository, initialising it, committing any changes made, and even creating branches. Github, on the other hand, is a web-based platform.
 
-Repositories created on git are hosted on GitHub such that they become accessible over the internet, which fosters collaboration because remote teams can now view, update and
+Repositories created on git are hosted on GitHub such that they become accessible over the internet, which fosters collaboration because remote teams can now view, update, and
 
-make changes to the same repositories.
+Make changes to the same repositories.
 
-To remotely host the local git repository on GitHub, you need to create an account on GitHub. After creating an account successfully, I push my local Git repository to my GitHub
+To remotely host the local git repository on GitHub, you need to create an account on GitHub. After creating an account successfully, I push my local Git repository to my GitHub.
 
 By taking the following steps
 
-Step 1. Create a new repository on GitHub named RemoteGitHub-Practice. See the screenshot below
+Step 1. Create a new repository on GitHub named RemoteGitHub-Practice. See the screenshot below.
 
 ![GitHub Repo Created](https://github.com/Nsidibeopel/Git-Project/assets/143354400/9844e9ef-6135-43bb-a2ca-42c9acd68bd5)
 
@@ -129,5 +129,7 @@ To get a local copy of the remote repository, run the clone command below
 git clone https://github.com/Nsidibeopel/RemoteGitHub-Practice.git See screenshot below
 
 ![clone command](https://github.com/Nsidibeopel/Git-Project/assets/143354400/9338a354-3b72-4afb-b2c7-21415d2e19fb)
+
+BRANCH MANAGEMENT AND TAGGING
 
 
