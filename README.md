@@ -132,4 +132,15 @@ git clone https://github.com/Nsidibeopel/RemoteGitHub-Practice.git See screensho
 
 BRANCH MANAGEMENT AND TAGGING
 
+Introduction to Markdown Syntax
+
+Markdown Syntax is used for formatting plain text. It is commonly used for creating documents, web pages and README. files
+
+See screenshot below for most commonly used Markdown syntax and the result
+
+![Markdown syntax](https://github.com/Nsidibeopel/Git-Project/assets/143354400/eab16073-f6f9-4e05-8a88-8f551c63627e)
+!![result of markdown](https://github.com/Nsidibeopel/Git-Project/assets/143354400/ff236ec6-188b-40c6-aa24-ae8c27b43db4)
+[Markdown syntax 2](https://github.com/Nsidibeopel/Git-Project/assets/143354400/d4402c97-f116-4f3a-b056-ef49731e292b)
+![result of markdown2](https://github.com/Nsidibeopel/Git-Project/assets/143354400/51768360-f2aa-4bee-b23d-85070b896e4c)
+
 
