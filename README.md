@@ -95,7 +95,7 @@ By taking the following steps
 
 Step 1. Create a new repository on GitHub named RemoteGitHub-Practice. See the screenshot below
 
-        ![GitHub Repo Created](https://github.com/Nsidibeopel/Git-Project/assets/143354400/9a44a726-f5c5-44b0-a17e-6777dcf76460)
+![GitHub Repo Created](https://github.com/Nsidibeopel/Git-Project/assets/143354400/9844e9ef-6135-43bb-a2ca-42c9acd68bd5)
 
 
 Step 2. Copy the remote link on the new GitHub repo created and paste it into the git bash terminal along with the command below
@@ -104,19 +104,16 @@ Step 2. Copy the remote link on the new GitHub repo created and paste it into th
 
 Step 3. Commit the changes by running the command below
 
-        git commit -m "first-remote-commit" See the screenshot below for steps 2 and 3
+    git commit -m "first-remote-commit" See the screenshot below for steps 2 and 3
 
-       ![commit repo](https://github.com/Nsidibeopel/Git-Project/assets/143354400/9e5b5274-eabc-4871-8f16-f1ce98deb57b)
+   ![commit repo](https://github.com/Nsidibeopel/Git-Project/assets/143354400/4f98538a-4872-4467-88e0-877c160560ce)
+        
         
 
 Step 4. After committing the changes to push to the remote repo on GitHub, I used the command below
 
        git push (which gave me an error message with the correct command to use) See the screenshot below
 
-       ![push command](https://github.com/Nsidibeopel/Git-Project/assets/143354400/3bad6c09-2c44-49b6-8999-7296a22cd202)
-
-
-   
-
+  ![push command](https://github.com/Nsidibeopel/Git-Project/assets/143354400/20e2af54-df75-485e-b71c-3449db8ccb31)
 
 
