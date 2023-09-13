@@ -93,19 +93,30 @@ To remotely host the local git repository on GitHub, you need to create an accou
 
 By taking the following steps
 
-Step 1. Create a new repository on GitHub
+Step 1. Create a new repository on GitHub named RemoteGitHub-Practice. See the screenshot below
+
+        ![GitHub Repo Created](https://github.com/Nsidibeopel/Git-Project/assets/143354400/9a44a726-f5c5-44b0-a17e-6777dcf76460)
+
 
 Step 2. Copy the remote link on the new GitHub repo created and paste it into the git bash terminal along with the command below
 
-        git remote add first-remote-repo 
+        git remote add first-remote-repo https://github.com/Nsidibeopel/RemoteGitHub-Practice.git
 
 Step 3. Commit the changes by running the command below
 
-        git commit -m "first-remote-commit" main
+        git commit -m "first-remote-commit" See the screenshot below for steps 2 and 3
+
+       ![commit repo](https://github.com/Nsidibeopel/Git-Project/assets/143354400/9e5b5274-eabc-4871-8f16-f1ce98deb57b)
+        
 
 Step 4. After committing the changes to push to the remote repo on GitHub, I used the command below
 
-git push remote main
+       git push (which gave me an error message with the correct command to use) See the screenshot below
+
+       ![push command](https://github.com/Nsidibeopel/Git-Project/assets/143354400/3bad6c09-2c44-49b6-8999-7296a22cd202)
+
+
+   
 
 
 
